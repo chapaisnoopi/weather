@@ -13,8 +13,7 @@
 }
 
 .day-forecast {
-    background: right/contain content-box border-box no-repeat
-        url('/media/examples/rain.svg') white;
+    background: white;
 }
 
 .day-forecast > h2,
